@@ -47,13 +47,13 @@ class QuestionController extends AbstractController
      */
     public function show($slug, MarkdownHelper $markdownHelper, HubInterface $sentryhub)
     {
-        dump($sentryhub);
+//        dump($sentryhub);
         if($this->isDebug)
         {
             $this->logger->info('We are in debug mode!');
         }
 
-        throw new \Exception('bad stuff happened!');
+//        throw new \Exception('bad stuff happened!');
 
         dump($this->getParameter('cache_adapter'));
         $answers = [

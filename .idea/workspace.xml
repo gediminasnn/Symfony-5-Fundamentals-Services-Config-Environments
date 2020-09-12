@@ -18,8 +18,10 @@
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/secrets/dev/dev.SENTRY_DSN.25b27f.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/secrets/dev/dev.SENTRY_DSN.25b27f.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controller/QuestionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/QuestionController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/question/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/question/show.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,6 +110,9 @@
       <path value="$PROJECT_DIR$/vendor/psr/http-message" />
       <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
       <path value="$PROJECT_DIR$/vendor/paragonie/sodium_compat" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/maker-bundle" />
     </include_path>
   </component>
   <component name="ProjectId" id="1hKLeMZk1wYpkQuPnMBOMx4msSW" />
@@ -145,7 +150,7 @@
       <workItem from="1599760458373" duration="130000" />
       <workItem from="1599760594075" duration="12307000" />
       <workItem from="1599853580973" duration="5148000" />
-      <workItem from="1599911171503" duration="8594000" />
+      <workItem from="1599911171503" duration="14648000" />
     </task>
     <servers />
   </component>
@@ -181,5 +186,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="676" y="243" key="NewPhpClassDialog/0.0.1920.1040/1920.0.1440.900@0.0.1920.1040" timestamp="1599856556289" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1599937651722">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1440.900@0.0.1920.1040" timestamp="1599937651722" />
   </component>
 </project>
